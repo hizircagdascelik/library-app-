@@ -15,3 +15,6 @@ additional features can be codded
 4)update code should be updated to change the required properties/keys
 
 this project can be coded by using RDBMS and OOD. Both data base management systems can be created by Python.
+
+this project created by following members.
+Laxmi Tara Devabaktuni, Hizir Cagdas Celik, Malath Ali, Suzi Oli
